@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 // define a route handler for the default home page
-app.get("/", (req, res, next) => {
+app.get("/", (req: Request, res: Response, next: NextFunction) => {
 
   res.send("Hello world!");
 });
