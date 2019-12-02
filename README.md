@@ -15,3 +15,7 @@ and input non-default data where necessary.
 
 ```curl -XGET 'http://localhost:1337'``` 
 
+### Tests
+
+jest
+
