@@ -17,5 +17,4 @@ and input non-default data where necessary.
 
 ### Tests
 
-jest
-
+Type ```jest``` in console, or ```npm run test```
