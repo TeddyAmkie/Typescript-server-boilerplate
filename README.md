@@ -1,6 +1,6 @@
 # Typescript-server-boilerplate
 
-Boilerplate code to ramp up a typescript node server with a PostgreSQL server. 
+Boilerplate code to ramp up a typescript node server with a PostgreSQL database. 
 
 Microsoft has an awesome boilerplate here with user models already hooked up and tested with Mongoose here: https://github.com/microsoft/TypeScript-Node-Starter
 
